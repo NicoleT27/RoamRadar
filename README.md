@@ -53,12 +53,16 @@ On the right of the same page, we will be able to view at the top the name of th
 
 ## Contributing
 This Application was Made with the contributions of:
-- 
-  -  Github: 
+- Abigail Burtley 
+  -  Github: https://github.com/Ariesscode
 - Nicole Torres 
     -  Github: https://github.com/NicoleT27
 - Alejandra Bernabel 
     - Github: https://github.com/alejandra-e-bernabel
+- Yo Wiesenfeld
+    - GitHub: https://github.com/Yowiesenfeld
+- Sara Garcia
+    - GitHub: https://github.com/Saragar710
  
   ## References
 - Images used from freepik

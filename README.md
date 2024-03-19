@@ -34,35 +34,21 @@ SO THAT the user can be interactive and have the ability to choose their locatio
 ## Usage
 
 When the user opens the web application they are shown the main introduction page of the site. This page will give the user a brief idea as to what the application is about, along with a button that will direct them to the login page(Start your adventure here). Should they be interested in moving forward.
-![Main intro/description page ](/images/intro-screenshot.jpg)
-
+![Main intro/description page ]
 Once redirected to the login page the user will have the opportunity to create an account or re-login using their saved credentials. Once finished they will click on the log-in button which will redirect them to the start of the site.
-![Log in page ](/images/login-page.jpg)
+![Log in page ]
 
 The user will be asked where they would like their visit to take place and from what dates. They are provided a Google-powered drop-down autocompletion menu to help them narrow their search. Once selected they can press the start planning button to be redirected once more to the itinerary where they will be able to begin officially planning their dream vacation to their liking.
-![Pick a location page ](/images/location-page.jpg)
+![Pick a location page ]
 
 On the left, you see a vertical navigation bar with different topics that the user can view to help in their travel plans. Should they want to exit the application they are also provided a log-out link as well which will direct them to the log-in page described earlier
-![navbar](/images/navigation-bar-screenshot.jpg)
-
+![navbar]
 On the right of the same page, we will be able to view at the top the name of the location they decided to visit along with the dates chosen. Along with different links to the sections in the application
-![Itinerary](/images/itinerary.jpg)
+![Itinerary]
 
 ## License
 ![Github License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## Contributing
-This Application was Made with the contributions of:
-- Abigail Burtley 
-  -  Github: https://github.com/Ariesscode
-- Nicole Torres 
-    -  Github: https://github.com/NicoleT27
-- Alejandra Bernabel 
-    - Github: https://github.com/alejandra-e-bernabel
-- Yo Wiesenfeld
-    - GitHub: https://github.com/Yowiesenfeld
-- Sara Garcia
-    - GitHub: https://github.com/Saragar710
  
   ## References
 - Images used from freepik

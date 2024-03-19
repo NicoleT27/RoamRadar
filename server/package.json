@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A travel Itinerary ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoleT27/RoamRadar.git"
+  },
+  "keywords": [
+    "mongodb",
+    "MERN",
+    "node",
+    "express",
+    "react",
+    "api"
+  ],
+  "author": "Nicole Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoleT27/RoamRadar/issues"
+  },
+  "homepage": "https://github.com/NicoleT27/RoamRadar#readme"
+}

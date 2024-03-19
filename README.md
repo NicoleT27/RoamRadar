@@ -54,6 +54,8 @@ On the right of the same page, we will be able to view at the top the name of th
 - Images used from freepik
 <a href="https://www.freepik.com/free-photo/beautiful-tropical-beach-sea_4123353.htm#query=landscape%20vacation&position=1&from_view=search&track=ais">Image by lifeforstock</a> on Freepik
 
+<a href="https://www.freepik.com/free-photo/beautiful-view-tranquil-desert-clear-sky-captured-morocco_9283219.htm#fromView=search&page=1&position=8&uuid=b1dae638-f2a0-4248-973e-80ab7cb4d08e">Image by wirestock on Freepik</a>
+
 ## GitHub-repository
 GitHub: https://saragar710.github.io/Travel-Itinerary/
 

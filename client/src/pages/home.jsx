@@ -6,7 +6,7 @@ import logo from "../assets/images/Roam-Radar-logo2.png";
 
 function Home() {
   return (
-    <div>
+    <div className="homePage">
       <div className="bg"></div>
       <img src={logo} className="logo" alt="travel logo" />
       <nav>

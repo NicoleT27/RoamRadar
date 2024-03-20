@@ -1,6 +1,5 @@
-
 .location {
-  background-image: url(../../assets/images/dessert.jpg);
+  background-image: url(../../assets/images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   overflow-x: hidden;
@@ -20,52 +19,60 @@
 }
 
 #floatingInput {
-  margin-bottom: 20px;
-  margin-left: 450px;
-  width: 30%;
+  width: 53%;
+  transform: translateX(300px);
 }
+
 #floatingInput::placeholder {
   color: gray;
   padding-left: 100px;
 }
 
-#floatingInputGrid {
-  width: 50%;
-  margin-left: 320px;
+#floatingInputGrid,label {
+  width: 55%;
+  margin-left: 300px;
+  margin-top: 3px;
 }
-#floatingInputGrid2 {
-  width: 50%;
-  margin-left: 10px;
+#floatingInputGrid2, .end{
+  width: 58%;
+  margin-top: 3px;
+  margin-left: 40px;
 }
+
+.row,.end{
+  padding-right: 100px;
+}
+
+
 .form-floating {
-  color: darkblue;
+  color: black;
   font: bolder;
 }
+
+
+
 .form-control:focus {
-  border-color: #e8a31e;
-  box-shadow: 3px 3px 3px #e8a31e;
+  border-color: #725927;
+  box-shadow: 3px 3px 3px #71592a;
 }
 #startTripBtn {
-  background-color: lightblue;
-  border-radius: 15px;
+  background-color: rgb(94, 88, 55);
+  border-radius: 50px;
   padding: 15px;
   margin-left: 570px;
   margin-top: 70px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 800;
 }
 #startTripBtn:hover {
-  background-color: #c69419;
+  background-color: #bea871;
 }
 #warning {
-  color: yellow;
+  color: black;
   text-align: center;
-  margin-top: -215px;
+  margin-top: -100px;
 }
-#logo {
-  margin-left: 1100px;
-  width: 14%;
-}
+
 a {
   text-decoration: none;
 }

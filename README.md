@@ -1,11 +1,22 @@
 # Travel-Itinerary
 RoamRadar is a digital itinerary dedicated to organizing and sorting travel plans in one convenient place.
 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
 ## Description
 
 This website is designed as an inclusive travel itinerary planner. The user will be able to sign up and pick a location they would like to visit as well as when.
 Once they have established their destination they are given the ability to add to the itinerary their hotel/booking information, flight information,
 a personalized budget for their trip as well as locate activities and dining in the area chosen.
+
 
 ## Table of Contents
 - [Description](#description)

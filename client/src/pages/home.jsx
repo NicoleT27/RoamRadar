@@ -1,15 +1,13 @@
 import React from "react";
 import "./css/home.css";
+import logo from "../assets/images/Roam-Radar-logo2.png";
+
 
 function Home() {
   return (
-    <section>
+    <div>
       <div className="bg"></div>
-      <img
-        src="./src/assets/images/Roam-Radar-logo2.png"
-        className="logo"
-        alt="travel logo"
-      />
+      <img src={logo} className="logo" alt="travel logo" />
       <nav>
         <a className="navbar-log" href="">
           Log in
@@ -19,17 +17,23 @@ function Home() {
         </a>
       </nav>
       <div className="container">
-        <h1>Unlock Effortless Travel Planning</h1>
+        <header>
+          <h1>Unlock Effortless Travel Planning</h1>
+        </header>
         <p>
           Discover the ultimate travel companion in our trip planner. Build,
           manage, and chart your dream itineraries effortlessly with our
           advanced AI-powered travel app.
         </p>
+        {/* </div> */}
+        <a id="start-btn" href="location.html" className="btn">
+          Start Planning
+        </a>
+        <a id="app-btn" href="#" className="app-btn">
+          Get the App
+        </a>
       </div>
-      <a id="start-btn" href="location.html" className="btn">
-        Start Planning
-      </a>
-    </section>
+    </div>
   );
 }
 

@@ -4,10 +4,10 @@ body {
 }
 
 .bg {
-  background-image: url("/images/hero.jpg");
+  background-image: url("./src/assets/images/hero.jpg");
   clip-path: polygon(0px 0px, 100% 0px, 100% 160%, 100px -90%); 
   background-size: cover;
-  height: 90vh;
+  height: 100vh;
   overflow-x: hidden;
   background-repeat: no-repeat;
 }

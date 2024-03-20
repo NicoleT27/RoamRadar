@@ -3,10 +3,10 @@ import "./css/home.css";
 
 function Home() {
   return (
-    <div>
+    <section>
       <div className="bg"></div>
       <img
-        src="./images/Roam-Radar-logo2.png"
+        src="./src/assets/images/Roam-Radar-logo2.png"
         className="logo"
         alt="travel logo"
       />
@@ -29,7 +29,7 @@ function Home() {
       <a id="start-btn" href="location.html" className="btn">
         Start Planning
       </a>
-    </div>
+    </section>
   );
 }
 

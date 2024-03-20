@@ -32,29 +32,30 @@ p {
   font-family: poppins;
   font-size: 25px;
   text-align: left;
-  margin-bottom: 40px;
 }
 
-.container {
+.text {
   padding-right: 50em;
   margin-left: 70px;
-  transform: translateY(-640px);
+  transform: translateY(-550px);
 }
 
-.btn, .app-btn {
+.start-btn,
+.app-btn {
   background-color: rgb(241, 197, 130);
   border-radius: 50px;
   padding: 15px;
   font-weight: bold;
   margin-left: -5px;
   color: #2c365d;
+  text-decoration: none;
 }
 
-.app-btn{
+.app-btn {
   margin-left: 40px;
 }
 
-.btn:hover,
+.start-btn:hover,
 .navbar-sign:hover {
   background-color: rgb(125, 93, 44);
   opacity: 0.8;

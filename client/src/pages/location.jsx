@@ -1,5 +1,6 @@
 import React from "react";
 import "./css/location.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
   
   
@@ -55,9 +56,9 @@ import "./css/location.css";
 
 function Location() {
   return (
-    <div> 
-      <header>
-        <h1>Plan Your Next Trip!</h1>
+    <div className="location"> 
+      <header className="header-Location">
+        <h1 className="headerP2">Plan Your Next Trip!</h1>
       </header>
       <main> 
         <form>

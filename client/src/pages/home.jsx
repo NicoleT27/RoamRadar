@@ -17,7 +17,7 @@ function Home() {
           Sign up
         </a>
       </nav>
-      <div className="container">
+      <div className="text">
         <header>
           <h1>Unlock Effortless Travel Planning</h1>
         </header>
@@ -27,7 +27,7 @@ function Home() {
           advanced AI-powered travel app.
         </p>
         {/* </div> */}
-        <Link to="/location" id="start-btn" className="btn">
+        <Link to="/location" id="start-btn" className="start-btn">
           Start Planning
         </Link>
         <Link to="/location" id="app-btn" className="app-btn">

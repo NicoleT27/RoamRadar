@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./css/home.css";
 import logo from "../assets/images/Roam-Radar-logo2.png";
 
@@ -26,12 +27,12 @@ function Home() {
           advanced AI-powered travel app.
         </p>
         {/* </div> */}
-        <a id="start-btn" href="location.html" className="btn">
+        <Link to="/location" id="start-btn" className="btn">
           Start Planning
-        </a>
-        <a id="app-btn" href="#" className="app-btn">
+        </Link>
+        <Link to="/location" id="app-btn" className="app-btn">
           Get the App
-        </a>
+        </Link>
       </div>
     </div>
   );

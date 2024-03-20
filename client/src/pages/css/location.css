@@ -1,26 +1,26 @@
-* {
+/* * {
   font-family: "Inter", sans-serif;
  
 }
-body {
-  background-image: url(../images/dessert.jpg);
-  background-size: cover;
+body { */
+  /* background-image: url(../../assets/images/dessert.jpg); */
+  /* background-size: cover;
   background-repeat: no-repeat;
   overflow-x: hidden;
   height: 50vh;
-}
-header {
+} */
+/* header {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 80px;
   margin-bottom: 30px;
-}
-h1 {
+} */
+/* h1 {
   font-size: 60px;
-}
+} */
 
-#floatingInput {
+/* #floatingInput {
   margin-bottom: 20px;
   margin-left: 450px;
   width: 30%;
@@ -62,11 +62,11 @@ button:hover {
   color: yellow;
   text-align: center;
   margin-top: -215px;
-}
-#logo {
+} */
+/* #logo {
   margin-left: 1100px;
   width: 14%;
-}
-a {
+} */
+/* a {
   text-decoration: none;
-}
+} */

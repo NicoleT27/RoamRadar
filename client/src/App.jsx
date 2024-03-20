@@ -1,7 +1,7 @@
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, Routes, Route} from "react-router-dom";
 // import "./App.css";
 import Home from "./pages/home.jsx";
-// import About from "./pages/about.jsx";
+import Location from "./pages/location.jsx";
 // import Projects from "./pages/projects.jsx";
 // import Contact from "./pages/contact.jsx";
 // import Interests from "./pages/interests.jsx";
@@ -10,12 +10,16 @@ import Home from "./pages/home.jsx";
 function App() {
   return (
     <BrowserRouter>
-      <Home />
-      {/* <About />
-      <Projects />
+      <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/location" element={<Location />} />
+ </Routes>
+      {/* <Home /> */}
+      {/* <Location /> */}
+      {/* <Projects />
       <Testimonial />
       <Interests />
-      <Contact /> */}
+      <Contact />  */}
     </BrowserRouter>
   );
 }

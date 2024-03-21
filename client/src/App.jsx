@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route} from "react-router-dom";
 // import "./App.css";
 import Home from "./pages/home.jsx";
 import Location from "./pages/location.jsx";
+import Landing from "./pages/landing.jsx";
 // import Projects from "./pages/projects.jsx";
 // import Contact from "./pages/contact.jsx";
 // import Interests from "./pages/interests.jsx";
@@ -12,13 +13,14 @@ import Location from "./pages/location.jsx";
 function App() {
   return (
     <BrowserRouter>
+      <Home />
+      <Landing />
       <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/location" element={<Location />} />
- </Routes>
-      {/* <Home /> */}
-      {/* <Location /> */}
-      {/* <Projects />
+        <Route path="/location" element={<Location />}  />
+      </Routes>
+      {/* <Landing />
+      <Location />
+      <Projects />
       <Testimonial />
       <Interests />
       <Contact />  */}

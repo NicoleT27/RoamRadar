@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import "./css/home.css";
 import logo from "../assets/images/Roam-Radar-logo2.png";
 
-
 function Home() {
   return (
     <div className="homePage">
@@ -21,12 +20,11 @@ function Home() {
         <header>
           <h1>Unlock Effortless Travel Planning</h1>
         </header>
-        <p>
+        <p className="introP">
           Discover the ultimate travel companion in our trip planner. Build,
           manage, and chart your dream itineraries effortlessly with our
           advanced AI-powered travel app.
         </p>
-        {/* </div> */}
         <Link to="/location" id="start-btn" className="start-btn">
           Start Planning
         </Link>
@@ -39,4 +37,3 @@ function Home() {
 }
 
 export default Home;
-

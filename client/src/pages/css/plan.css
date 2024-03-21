@@ -1,0 +1,20 @@
+.homePage5{
+    background-color: antiquewhite;
+}
+
+.homePage5P1{
+  text-align: center;
+  color: #2c365d;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.homePage5P2{
+ text-align: center;
+ color: #768189;
+ word-wrap: break-word;
+ width:750px;
+ font-size: 20px;
+ margin-left: 13em;
+
+}

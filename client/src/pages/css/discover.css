@@ -1,20 +1,21 @@
-.homePage5{
-    background-color: antiquewhite;
+
+.homePage6{
+    background-color: rgb(219, 149, 57);
 }
 
-.homePage5P1{
-  text-align: center;
+.homePage7P1{
   color: #2c365d;
   font-weight: 700;
   font-size: 30px;
+  text-align: center;
 }
 
-.homePage5P2{
- text-align: center;
+.homePage7P2{
  color: #768189;
  word-wrap: break-word;
  width:750px;
  font-size: 20px;
+ text-align: center;
  margin-left: 13em;
-padding-bottom: 400px;
+ padding-bottom: 400px;
 }

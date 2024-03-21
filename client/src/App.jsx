@@ -6,6 +6,8 @@ import Landing from "./pages/landing.jsx";
 import Testimonials from "./pages/testimonials.jsx"
 import Features from "./pages/features.jsx";
 import Plan from "./pages/plan.jsx";
+import Mobile from "./pages/mobile.jsx";
+import Discover from "./pages/discover.jsx";
 // import Projects from "./pages/projects.jsx";
 // import Contact from "./pages/contact.jsx";
 // import Interests from "./pages/interests.jsx";
@@ -21,6 +23,8 @@ function App() {
       <Testimonials />
       <Features />
       <Plan />
+      <Mobile />
+      <Discover />
       <Routes>
         <Route path="/location" element={<Location />}  />
       </Routes>

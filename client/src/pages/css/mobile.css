@@ -1,0 +1,27 @@
+.homePage6{
+    background-color: rgb(219, 149, 57);
+}
+
+.homePage6P1{
+  color: #2c365d;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 10em;
+  word-wrap: break-word;
+  width:300px;
+}
+
+.homePage6P2{
+ color: #768189;
+ word-wrap: break-word;
+ width:450px;
+ font-size: 20px;
+ margin-left: 10em;
+}
+
+.iphones{
+width: 35%;
+margin-left: 45em;
+margin-top: -300px;
+padding-bottom: 300px;
+}

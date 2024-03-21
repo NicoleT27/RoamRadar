@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./pages/home.jsx";
 import Location from "./pages/location.jsx";
 import Landing from "./pages/landing.jsx";
+import Testimonials from "./pages/testimonials.jsx"
 // import Projects from "./pages/projects.jsx";
 // import Contact from "./pages/contact.jsx";
 // import Interests from "./pages/interests.jsx";
@@ -15,6 +16,7 @@ function App() {
     <BrowserRouter>
       <Home />
       <Landing />
+      <Testimonials />
       <Routes>
         <Route path="/location" element={<Location />}  />
       </Routes>

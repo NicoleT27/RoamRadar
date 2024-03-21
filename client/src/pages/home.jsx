@@ -18,7 +18,7 @@ function Home() {
       </nav>
       <div className="text">
         <header>
-          <h1>Unlock Effortless Travel Planning</h1>
+          <h1 className="homePageH">Unlock Effortless Travel Planning</h1>
         </header>
         <p className="introP">
           Discover the ultimate travel companion in our trip planner. Build,
